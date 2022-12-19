@@ -4,7 +4,7 @@
 C++ is a **statically-typed** programming language =>
 Statically typed is a programming language characteristic in which variable types are explicitly declared and thus are determined at compile time. This lets the compiler decide whether a given variable can perform the actions requested from it or not.
 
-'''It was developed by Bjarne Stroustrup in 1979 as an extension of the C programming language and is known for its performance, flexibility, and power.'''
+* It was developed by Bjarne Stroustrup in 1979 as an extension of the C programming language and is known for its performance, flexibility, and power. *
 
 C++ is a multi-paradigm programming language =>
 Meaning that it supports a range of programming styles, including imperative, object-oriented, and generic programming. It is an object-oriented programming (OOP) language, which means that it allows programmers to define classes, create objects based on these classes, and use inheritance to define relationships between classes.
@@ -15,7 +15,7 @@ It defines the data members (variables) and member functions (functions) that ma
 C++ also includes support for templates =>
 which are a way to write code that can be used with multiple data types. Templates are defined using the "template" keyword and allow programmers to write code that is more flexible and efficient, as it can be reused without the need to rewrite the code for each data type.
 
-*In addition to its OOP and template features, C++ also supports low-level operations such as memory management and bit manipulation. These features allow programmers to write code that is close to the hardware and to optimize the performance of their applications.*
+*In addition to its OOP and template features, C++ also supports low-level operations such as memory management and bit manipulation. These features allow programmers to write code that is close to the hardware and to optimize the performance of their applications*
 
 ## CPP CHEAT SHEET
 
@@ -39,5 +39,5 @@ Classes and objects:
 
 Templates:
 >C++ has support for templates, which are a way to write code that can be used with multiple data types. Templates are defined using the "template" keyword and allow programmers to write code that is more flexible and efficient.
->
+
 
