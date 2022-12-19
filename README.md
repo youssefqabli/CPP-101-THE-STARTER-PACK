@@ -41,3 +41,22 @@ Templates:
 >C++ has support for templates, which are a way to write code that can be used with multiple data types. Templates are defined using the "template" keyword and allow programmers to write code that is more flexible and efficient.
 
 
+# OOP's CONCEPTS YOU SHOULD UNDERSTAND
+
+Object-oriented programming (OOP) is a programming paradigm that is based on the concept of "Objects",  which can represent real-world entities or abstract concepts. In OOP, objects are defined by their characteristics, or "attributes", and the actions they can perform, or "methods".
+
+here is an example from real world:
+
+![class-object-featured-image](https://user-images.githubusercontent.com/98336696/208521010-3c1368dd-43cd-4103-819a-4a393e889408.png)
+
+## The four key concepts in OOP:
+
+**1) Abstraction**: Abstraction refers to the process of exposing only the essential characteristics and behaviors of an object, and hiding the implementation details. This allows the object to be viewed as a black box that can be used without needing to know how it works internally.
+
+**2) Encapsulation**: Encapsulation is the practice of bundling the attributes and behaviors of an object together, and protecting the internal state of the object from external modification. This can be achieved through the use of access modifiers like private and protected.
+
+**3) Inheritance**: Inheritance is a mechanism that allows you to create a new class that is a modified version of an existing class. The new class, called the "subclass", can inherit the attributes and behaviors of the existing class, called the "superclass". This allows you to create a hierarchy of classes, where a subclass can inherit characteristics from its superclass and add or modify them as needed.
+
+**4) Polymorphism**:  Polymorphism refers to the ability of different objects to respond differently to the same message or method call. This can be achieved through inheritance, where a subclass can override the behavior of a method inherited from its superclass, or through the use of interfaces or abstract classes, which define a set of methods that must be implemented by concrete classes.
+
+
