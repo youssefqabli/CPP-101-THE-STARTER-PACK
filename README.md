@@ -1,6 +1,6 @@
 # CPP-101-THE-STARTER-PACK
 
-#**SHORT INTRO**
+#SHORT INTRO
 C++ is a **statically-typed** programming language 
 >Statically typed is a programming language characteristic in which variable types are explicitly declared and thus are determined at compile time. This lets the compiler decide whether a given variable can perform the actions requested from it or not.
 
@@ -17,7 +17,7 @@ C++ also includes support for templates
 
 In addition to its OOP and template features, C++ also supports low-level operations such as memory management and bit manipulation. These features allow programmers to write code that is close to the hardware and to optimize the performance of their applications.
 
-#**CPP CHEAT SHEET**
+#CPP CHEAT SHEET
 
 Data types:
 >C++ has a range of built-in data types, including integers (e.g. int), floating-point numbers (e.g. float), characters (e.g. char), and boolean values (e.g. bool).
