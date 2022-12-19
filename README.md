@@ -1,6 +1,7 @@
 # CPP-101-THE-STARTER-PACK
 
-C++ is a **statically-typed** compiled programming language >(Statically typed is a programming language characteristic in which variable types are explicitly declared and thus are determined at compile time. This lets the compiler decide whether a given variable can perform the actions requested from it or not.)
+C++ is a **statically-typed** compiled programming language 
+>(Statically typed is a programming language characteristic in which variable types are explicitly declared and thus are determined at compile time. This lets the compiler decide whether a given variable can perform the actions requested from it or not.)
 
 It was developed by Bjarne Stroustrup in 1979 as an extension of the C programming language and is known for its performance, flexibility, and power.
 
