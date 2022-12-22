@@ -49,7 +49,7 @@ here is an example from real world:
 
 ![class-object-featured-image](https://user-images.githubusercontent.com/98336696/208521010-3c1368dd-43cd-4103-819a-4a393e889408.png)
 
-## The four key concepts in OOP:
+## The 4 key concepts in OOP:
 
 **1) Abstraction**: Abstraction refers to the process of exposing only the essential characteristics and behaviors of an object, and hiding the implementation details. This allows the object to be viewed as a black box that can be used without needing to know how it works internally.
 
